@@ -1,0 +1,9 @@
+# Minimal runtime deps (Airflow added later via Docker)
+pandas
+pyspark
+streamlit
+textblob
+faiss-cpu
+transformers
+datasets
+delta-spark
