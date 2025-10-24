@@ -40,3 +40,9 @@ AI-Driven-Data-Lakehouse/
 ├── architecture_diagram.png
 ├── requirements.txt
 └── README.md
+📊 Results
+
+Coming soon: screenshots of the Streamlit dashboard showing product sentiment insights.
+📜 License
+
+MIT License © 2025 Afnan Uddin
